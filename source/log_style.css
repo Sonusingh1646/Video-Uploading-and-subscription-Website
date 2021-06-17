@@ -1,0 +1,22 @@
+body {
+	background-image:url("12345.jpg");
+	background-position: center;
+}
+.main_content{
+	text-align:center;
+	border-style: groove;
+	 border-width: medium;
+	 border-color: F51B1B;
+	  border-radius: 5px;
+	   margin-top: 150px;
+    margin-bottom: 10px;
+    margin-right: 500px;
+    margin-left: 500px;
+	line-height: 1.8;
+	padding: 25px;
+	font-size: 20px;
+}
+.inner_main{
+    background-color: transparent;
+   
+}
